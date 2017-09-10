@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "ClothingCraft:items/itemColorableShoes_base",
+        "layer1": "ClothingCraft:items/itemColorableShoes_overlay"
+    }
+}

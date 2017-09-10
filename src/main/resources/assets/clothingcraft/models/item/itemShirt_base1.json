@@ -1,0 +1,9 @@
+{
+"parent": "item/generated",
+    "textures": {
+        "layer0": "ClothingCraft:items/itemShirt_base",    
+        "layer1": "ClothingCraft:items/itemShirt_overlay_stripes",
+        "layer2": "ClothingCraft:items/itemShirt_overlay_buttons"
+        
+    }
+    }

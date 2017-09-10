@@ -1,0 +1,61 @@
+itemGroup.clothingCraftClothing=ClothingCraft Clothing
+itemGroup.clothingCraftItems=ClothingCraft Items
+
+item.clothingOneShirt.name=Beige Shirt
+item.clothingOnePants.name=Brown Pants
+item.clothingOneShoes.name=Black Shoes
+
+item.clothingTwoShirt.name=Red Shirt
+item.clothingTwoPants.name=Gray Pants
+
+item.itemFabric.name=Fabric
+tooltip.color.dark_green.name=Dark Green
+tooltip.color.green.name=Green
+tooltip.color.light_green.name=Light Green
+tooltip.color.sea_green.name=Sea Green
+
+tooltip.color.blue.name=Blue
+tooltip.color.light_blue.name=Light Blue
+tooltip.color.dark_blue.name=Dark Blue
+tooltip.color.turquoise.name=Turqoise
+
+tooltip.color.violet.name=Violet
+tooltip.color.purple.name=Purple
+tooltip.color.royal_violet.name=Royal Violet
+
+tooltip.color.pink.name=Pink
+tooltip.color.dark_pink.name=Dark Pink
+tooltip.color.crimson.name=Crimson
+
+tooltip.color.beige.name=Beige
+tooltip.color.dark_beige.name=Dark Beige
+tooltip.color.brown.name=Brown
+
+tooltip.color.yellow.name=Yellow
+tooltip.color.bright_yellow.name=Bright Yellow
+tooltip.color.mustard_yellow.name=Mustard Yellow
+tooltip.color.orange.name=Orange
+tooltip.color.red.name=Red
+
+tooltip.color.white.name=White
+tooltip.color.light_gray.name=Light Gray
+tooltip.color.gray.name=Gray
+tooltip.color.dark_gray.name=Dark Gray
+tooltip.color.black.name=Black
+
+tooltip.color.unknown.name=Unknown Color
+
+item.itemButton.name=Button
+item.itemButton.color.black.name=Black
+item.itemButton.color.brown.name=Brown
+item.itemButton.color.purple.name=Purple
+item.itemButton.color.white.name=White
+item.itemClothingColorableShirt.name=Shirt
+item.itemClothingColorablePants.name=Pants
+item.itemClothingColorableShoes.name=Shoes
+item.itemShirt.name=Shirt Main Piece
+item.itemSleeve.name=Sleeve
+item.itemHammer.name=Hammer
+item.itemClothingColorableHat.name=Hat
+
+tooltip.customColoring=Colored

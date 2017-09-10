@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "ClothingCraft:items/itemColorableShirt_base",
+        "layer1": "ClothingCraft:items/itemColorableShirt_base",
+        "layer2": "ClothingCraft:items/itemColorableShirt_overlay_buttons",
+        "layer3": "ClothingCraft:items/itemColorableShirt_overlay_sleeves"
+    },
+   "overrides": [
+    { "predicate": { "shirttype": 0.100 }, "model": "ClothingCraft:item/itemColorableShirt_base0" },
+    { "predicate": { "shirttype": 0.200 }, "model": "ClothingCraft:item/itemColorableShirt_base1" }
+   
+  ]
+}

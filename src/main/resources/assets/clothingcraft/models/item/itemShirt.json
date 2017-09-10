@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "ClothingCraft:items/itemShirt_base",
+        "layer1": "ClothingCraft:items/itemShirt_base",
+        "layer2": "ClothingCraft:items/itemShirt_overlay_buttons"
+    },
+  "overrides": [
+    { "predicate": { "shirttype": 0.100 }, "model": "ClothingCraft:item/itemShirt_base0" },
+    { "predicate": { "shirttype": 0.200 }, "model": "ClothingCraft:item/itemShirt_base1" }
+   
+  ]
+}
